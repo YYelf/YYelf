@@ -26,12 +26,14 @@ Here are some ideas to get you started:
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyelf&&layout=compact&theme=vue">
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=YYelf&theme=vue&date_format=%5BY.%5Dn.j&card_width=520&border=E4E2E2&stroke=E4E2E2)](https://git.io/streak-stats)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yyelf&theme=vue&bg_color=transparent&point=33a06f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <details>
 
-<summary style="color:#888">page data</summary
+<summary>page data</summary
 
 ![yyelf](https://moe-counter.glitch.me/get/@yyelf?theme=asoul)
 
