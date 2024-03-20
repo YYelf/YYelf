@@ -57,6 +57,8 @@ https://github-profile-trophy.vercel.app/?username=YYelf&margin-w=15&no-frame=fa
 
 项目地址：https://github.com/Ashutosh00710/github-readme-activity-graph/
 
+设置页面：https://ashutosh00710.github.io/github-readme-activity-graph/
+
 ```
 https://github-readme-activity-graph.vercel.app/graph?username=yyelf&theme=vue&bg_color=transparent&point=33a06f&area=true&hide_border=true)
 ```
