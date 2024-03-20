@@ -180,7 +180,7 @@ https://visitor-badge.glitch.me/badge?page_id=YYelf
 
 ## 访问统计
 
-| 工具                                                    | 设置网站                         |                             示例                             |
+| 工具                                                    | 设置页面                         |                             示例                             |
 | ------------------------------------------------------- | :------------------------------- | :----------------------------------------------------------: |
 | [萌萌计数器](https://github.com/journey-ad/Moe-counter) | https://moe-counter.glitch.me/   |     ![example](https://moe-counter.glitch.me/get/@index)     |
 | badges徽章                                              | https://badges.toozhao.com/      | [![Page Views Count](https://badges.toozhao.com/badges/01HSDDM5E1K962TBMTJDY2Y15W/green.svg)](https://badges.toozhao.com/stats/01HSDDM5E1K962TBMTJDY2Y15W "Get your own page views count badge on badges.toozhao.com") |
