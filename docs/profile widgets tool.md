@@ -127,7 +127,7 @@ https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript
 ```
 
-![](https://img.shields.io/badge/any text-you like-blue)
+![](https://img.shields.io/badge/any%20text-you%20like-blue)
 ![](https://img.shields.io/npm/v/npm.svg?logo=npm)
 ![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 ![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
@@ -174,8 +174,6 @@ https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascrip
 https://visitor-badge.glitch.me/badge?page_id=YYelf
 ```
 
-ps: 我设置时图片不展示
-
 ![](https://visitor-badge.glitch.me/badge?page_id=YYelf)
 
 
@@ -186,7 +184,7 @@ ps: 我设置时图片不展示
 | ------------------------------------------------------- | :------------------------------- | :----------------------------------------------------------: |
 | [萌萌计数器](https://github.com/journey-ad/Moe-counter) | https://moe-counter.glitch.me/   |     ![example](https://moe-counter.glitch.me/get/@index)     |
 | badges徽章                                              | https://badges.toozhao.com/      | [![Page Views Count](https://badges.toozhao.com/badges/01HSDDM5E1K962TBMTJDY2Y15W/green.svg)](https://badges.toozhao.com/stats/01HSDDM5E1K962TBMTJDY2Y15W "Get your own page views count badge on badges.toozhao.com") |
-| Visitor Badge徽章                                       | https://visitor-badge.glitch.me/ |   ![](https://visitor-badge.glitch.me/badge?page_id=YYelf)   |
+| Visitor Badge                                       | https://visitor-badge.glitch.me/ |   ![](https://visitor-badge.glitch.me/badge?page_id=YYelf)   |
 
 
 
@@ -228,7 +226,21 @@ You can add an image or a code block, too.
 </details>
 ```
 
+<details>
 
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
 
 
 
